@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hadifikri83
 - 🚬 Alumni Teknik Enjoynering
-- 🗿 Programing Newbie.....
+- 🗿 Programer Newbie.....
 - 💻 Learn JAVA,Python,C#,C++ 
 - 
 
